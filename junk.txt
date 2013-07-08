@@ -1,1 +1,3 @@
 this file is a test for git
+
+editing file under branch, naming convention is different from what I'm using with orgin/master vs branch1
